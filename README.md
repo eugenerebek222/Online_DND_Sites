@@ -13,11 +13,25 @@
   * Online VTT
   * Good integration with payed resources
   * https://roll20.net/
+* Foundry VTT
+  * Slick interface
+  * Self hosted
+  * VTT marketplace - Limited content relative to Roll20 and FG?
+  * https://foundryvtt.com/
+* Forge
+  * Online Foundry VTT server
+  * Players free
+  * https://forge-vtt.com/
+  * Roll20 converter
+    * Convert content from Roll20
+    * https://github.com/kakaroto/R20Converter
 * TablePlop
   *   Online VTT
   * Very simple, which seems a plus
   * No apparent integration with paid resources
-  * Free?
+  * Free
+  * Small user community
+  * Paetron integration
   * https://new.tableplop.com/
     
 ## Character Manager
